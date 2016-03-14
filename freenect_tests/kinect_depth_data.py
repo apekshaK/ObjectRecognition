@@ -1,3 +1,4 @@
+#Credits: https://naman5.wordpress.com/2014/06/24/experimenting-with-kinect-using-opencv-python-and-open-kinect-libfreenect/
 #import the necessary modules
 import freenect
 import cv2
